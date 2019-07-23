@@ -1,0 +1,25 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;;
+	background: #FFFFFF;
+}
+
+.header{
+	width: 100%;
+	height: 100vh;
+	margin: 0px;
+	padding: 10px;
+	background-image: url("../img/back-image.jpeg");
+
+
+}
+.top-nav{
+	width: 980px;
+	height: 36px;
+	margin: auto;
+	text-decoration: none;
+	text-align: left;
+	border-radius: 4px;
+	
+}
